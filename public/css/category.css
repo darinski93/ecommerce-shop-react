@@ -1,0 +1,51 @@
+.main-category {
+    margin: 40px;
+}
+
+.window-container {
+    display: flex;
+    justify-content: center;
+}
+
+
+.window-one,
+.window-two,
+.window-three {
+    flex-basis: calc(25% - 10px);
+    background-size: cover;
+    background-position: center;
+    height: 70vh;
+    display: flex;
+    transition: filter 0.3s ease, transform 0.3s ease;
+    font-family: 'Handwritten', cursive;
+    font-size: 36px;
+    cursor: pointer;
+    margin: 10px;
+    flex-direction: column;
+    justify-content: flex-end;
+    color: white;
+    border-radius: 7px;
+    text-decoration: none;
+    list-style: none
+}
+
+
+.window-one:hover,
+.window-two:hover,
+.window-three:hover {
+    filter: brightness(110%);
+    transform: scale(1.02);
+}
+
+
+.window-one {
+    background-image: url('../img/pexels-castorly-stock-3641059.jpg');
+}
+
+.window-two {
+    background-image: url('../img/pexels-valeria-boltneva-185489.jpg');
+}
+
+.window-three {
+    background-image: url('../img/pexels-anastasiya-lobanovskaya-792760.jpg');
+}

@@ -1,0 +1,40 @@
+
+nav {
+    background-color: #ddad01;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    height: 70px;
+  }
+  
+  nav ul {
+    list-style: none;
+    margin: 0;
+    display: flex;
+    align-items: center;
+  }
+  
+  nav li {
+    padding: 0 20px;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  nav li:hover {
+    color: #6f4aba;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  .logo {
+    max-width: 120px;
+    height: auto;
+  }
+  
+  
