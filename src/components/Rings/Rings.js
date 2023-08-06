@@ -1,17 +1,18 @@
 import { useEffect, useState } from "react"
 
 
-export const Bracelet = () => {
+export const Rings = () => {
 
     const [items, setItems] = useState([])
     const [show, setShow] = useState(10)
-
+  
     useEffect(() => {
-        fetch('./db/db.bracelet.json')
-            .then((res) => res.json())
-            .then((data) => setItems(data))
-            .catch((error) => console.log(error))
+      fetch('./db/db.rings.json')
+        .then((res) => res.json())
+        .then((data) => setItems(data))
+        .catch((error) => console.log(error))
     }, [])
+  
 
     if (!items || items.length === 0) {
         return <div className="loading">Loading...</div>
