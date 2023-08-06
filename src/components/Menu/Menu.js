@@ -1,30 +1,27 @@
-import { useEffect, useState } from "react"
+import { useEffect, useState } from "react";
 
+export const Menu = ({ dbPath, category, title }) => {
+    const [items, setItems] = useState([]);
+    const [show, setShow] = useState(10);
 
-export const Rings = () => {
-
-    const [items, setItems] = useState([])
-    const [show, setShow] = useState(10)
-  
     useEffect(() => {
-      fetch('./db/db.rings.json')
-        .then((res) => res.json())
-        .then((data) => setItems(data))
-        .catch((error) => console.log(error))
-    }, [])
-  
+        fetch(dbPath)
+            .then((res) => res.json())
+            .then((data) => setItems(data))
+            .catch((error) => console.log(error));
+    }, [dbPath]);
 
     if (!items || items.length === 0) {
-        return <div className="loading">Loading...</div>
+        return <div className="loading">Loading...</div>;
     }
 
     const handleLoadMore = () => {
-        setShow((prevShow) => prevShow + 10)
-    }
+        setShow((prevShow) => prevShow + 10);
+    };
 
     const handleShowLess = () => {
-        setShow(10)
-    }
+        setShow(10);
+    };
 
     return (
         <div className="product-grid">
@@ -59,3 +56,4 @@ export const Rings = () => {
         </div>
     )
 };
+

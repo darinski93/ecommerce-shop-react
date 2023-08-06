@@ -4,9 +4,7 @@ import { Header } from './components/Header/Header';
 import { Home } from './components/Home/Home';
 import { Video } from './components/Video/Video';
 import { Category } from './components/Category/Category';
-import { Bracelets } from './components/Bracelets/Bracelets';
-import { Rings } from './components/Rings/Rings';
-import { Necklaces } from './components/Necklaces/Necklaces';
+import { Menu } from './components/Menu/Menu';
 
 
 function App() {
@@ -21,9 +19,9 @@ function App() {
       <Routes>
         <Route path='/' element={<Home />} />
         <Route path='/category' element={<Category />} />
-        <Route path='/category-bracelets' element={<Bracelets />} />
-        <Route path='/category-rings' element={<Rings />} />
-        <Route path='/category-necklaces' element={<Necklaces />} />
+        <Route path='/category-bracelets' element={<Menu dbPath="./db/db.bracelet.json" category="Bracelets" title="Bracelets" />} />
+        <Route path='/category-necklaces' element={<Menu dbPath="./db/db.necklaces.json" category="Necklaces" title="Necklaces" />} />
+        <Route path='/category-rings' element={<Menu dbPath="./db/db.rings.json" category="Rings" title="Rings" />} />
       </Routes>
 
       <Video />
