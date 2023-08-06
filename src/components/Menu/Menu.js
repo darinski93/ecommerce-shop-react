@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 
-export const Menu = ({ dbPath, category, title }) => {
+export const Menu = ({ dbPath }) => {
     const [items, setItems] = useState([]);
     const [show, setShow] = useState(10);
 

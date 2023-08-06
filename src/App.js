@@ -19,9 +19,9 @@ function App() {
       <Routes>
         <Route path='/' element={<Home />} />
         <Route path='/category' element={<Category />} />
-        <Route path='/category-bracelets' element={<Menu dbPath="./db/db.bracelet.json" category="Bracelets" title="Bracelets" />} />
-        <Route path='/category-necklaces' element={<Menu dbPath="./db/db.necklaces.json" category="Necklaces" title="Necklaces" />} />
-        <Route path='/category-rings' element={<Menu dbPath="./db/db.rings.json" category="Rings" title="Rings" />} />
+        <Route path='/category-bracelets' element={<Menu dbPath="./db/db.bracelet.json" />} />
+        <Route path='/category-necklaces' element={<Menu dbPath="./db/db.necklaces.json" />} />
+        <Route path='/category-rings' element={<Menu dbPath="./db/db.rings.json" />} />
       </Routes>
 
       <Video />
