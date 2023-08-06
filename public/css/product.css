@@ -1,0 +1,139 @@
+.product-grid {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-gap: 10px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 50px;
+    margin-top: 30px;
+    position: relative;
+}
+
+
+.product-item {
+    margin-top: 30px;
+    text-align: center;
+    width: 250px;
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    overflow: hidden;
+    border-radius: 7px;
+    border: 2px solid white;
+    align-items: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    cursor: pointer;
+    transition: filter 0.3s ease, transform 0.3s ease;
+}
+
+.product-item:hover {
+    transform: scale(1.02);
+}
+
+.product-item div {
+    color: #1a1b1c;
+    font-size: 14px;
+    font-family: cursive, 'Comic Sans MS', 'Arial', sans-serif;
+    font-weight: bold;
+    width: 100%;
+    top: 0px;
+    position: absolute;
+    background-color: #f4f6f8;
+}
+
+.product-item p {
+    color: #1a1b1c;
+    padding: 5px;
+    font-size: 14px;
+    position: absolute;
+    bottom: -20px;
+    left: 0;
+    width: 100%;
+    background-color: #f4f6f8;
+}
+
+.price {
+    color: #52af57;
+    font-size: 18px;
+    font-weight: bold;
+    position: absolute;
+    bottom: 20px;
+    left: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.btn-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    bottom: 10px;
+    left: 0;
+    right: 0;
+}
+
+#load-more-btn {
+    padding: 5px 25px;
+    background-color: #5a5757;
+    color: #fff;
+    font-size: 18px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    transition: background-color 0.3s ease;
+}
+
+.loading {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 24px;
+    color: rgb(244, 244, 244);
+    text-align: center;
+}
+
+.sorting-container {
+    position: absolute;
+    top: -30px;
+    right: 0;
+    margin: 10px;
+    z-index: 1;
+    text-align: right;
+}
+
+.sorting-container button {
+    margin: 5px;
+    padding: 8px 15px;
+    background-color: #3d3a3a;
+    color: #fff;
+    font-size: 14px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+  
+}
+
+.describing {
+    padding: 8px 15px ;
+    position: absolute;
+    top: -20px;
+    left: 0;
+    z-index: 1;
+    text-align: left;
+    background-color: #3d3a3a;
+    color: white;
+    border-radius: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+}
+
+
+

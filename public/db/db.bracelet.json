@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "brand": "Tiffany & Co",
+    "name": "T Square Bracelet",
+    "description": "Elegance with T motif.",
+    "image": "https://media.tiffany.com/is/image/Tiffany/EcomItemL2/tiffany-tsquare-bracelet-33263422_998059_ED_M.jpg",
+    "price": "299",
+    "rating": 4.5,
+    "category": "Bracelets"
+  },
+  {
+    "id": 2,
+    "brand": "Tiffany & Co",
+    "name": "HardWear Ball Bypass",
+    "description": "Modern charm, spheres.",
+    "image": "https://100ways.com/cdn/shop/products/IMG_0833_2000x2000.jpg?v=1621553686",
+    "price": "499",
+    "rating": 4.7,
+    "category": "Bracelets"
+  },
+  {
+    "id": 3,
+    "brand": "Tiffany & Co",
+    "name": "Return to Tiffany Heart Tag",
+    "description": "Love with heart tag.",
+    "image": "https://media.tiffany.com/is/image/Tiffany/EcomItemL2/return-to-tiffanyheart-tag-pendant-30971655_1014318_ED.jpg",
+    "price": "249",
+    "rating": 4.8,
+    "category": "Bracelets"
+  },
+  {
+    "id": 4,
+    "brand": "Tiffany & Co",
+    "name": "Atlas Open Narrow Bangle",
+    "description": "Timeless beauty, Roman.",
+    "image": "https://cdn.theluxurycloset.com/uploads/optimize/products/750x750/luxury-women-tiffany-co-used-fine-jewelry-p92411-001.jpg",
+    "price": "349",
+    "rating": 4.3,
+    "category": "Bracelets"
+  },
+  {
+    "id": 5,
+    "brand": "Tiffany & Co",
+    "name": "Victoria Mixed Cluster",
+    "description": "Sparkle, mixed-cut diamonds.",
+    "image": "https://media.tiffany.com/is/image/Tiffany/EcomItemL2/tiffany-victoriamixed-cluster-drop-pendant-35250301_953159_ED.jpg?&op_usm=1.0,1.0,6.0&$cropN=0.1,0.1,0.8,0.8&defaultImage=NoImageAvailableInternal&&defaultImage=NoImageAvailableInternal&fmt=webp",
+    "price": "599",
+    "rating": 4.9,
+    "category": "Bracelets"
+  },
+  {
+    "id": 6,
+    "brand": "Bulgari",
+    "name": "Serpenti Bracelet",
+    "description": "Seductive grace, serpent.",
+    "image": "https://cdn1.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/b/v/bvlgari-serpenti-353792-multiple-1.jpg",
+    "price": "799",
+    "rating": 4.6,
+    "category": "Bracelets"
+  },
+  {
+    "id": 7,
+    "brand": "Bulgari",
+    "name": "B.Zero1 Bracelet",
+    "description": "Spirals, modern design.",
+    "image": "https://images.vestiairecollective.com/cdn-cgi/image/w=768,q=75,f=auto,/produit/white-ceramic-bzero1-bvlgari-bracelet-35514787-1_4.jpg",
+    "price": "699",
+    "rating": 4.4,
+    "category": "Bracelets"
+  },
+  {
+    "id": 8,
+    "brand": "Bulgari",
+    "name": "Divas' Dream Bracelet",
+    "description": "Glamorous elegance, divas.",
+    "image": "https://fecarotta-com.cdn-immedia.net/wp-content/uploads/2020/02/BRACCIALE-BVLGARI-BR857323.jpg",
+    "price": "899",
+    "rating": 4.8,
+    "category": "Bracelets"
+  },
+  {
+    "id": 9,
+    "brand": "Bulgari",
+    "name": "Serpenti Tubogas Bracelet",
+    "description": "Luxurious flexibility, serpent.",
+    "image": "https://cdn.theluxurycloset.com/uploads/products/full/luxury-women-bvlgari-used-fine-jewelry-p195795-003.jpg",
+    "price": "1099",
+    "rating": 4.7,
+    "category": "Bracelets"
+  },
+  {
+    "id": 10,
+    "brand": "Bulgari",
+    "name": "Parentesi Bracelet",
+    "description": "Timeless architectural pattern.",
+    "image": "https://www.artcurial.com/sites/default/files/styles/840_width/public/lots-images/2017-09-14-16/M1014_20003088_0.jpg?itok=2zDbZh-d",
+    "price": "899",
+    "rating": 4.5,
+    "category": "Bracelets"
+  },
+  {
+    "id": 11,
+    "brand": "Harry Winston",
+    "name": "Winston Cluster Bracelet",
+    "description": "Brilliant cluster, diamonds.",
+    "image": "https://a.1stdibscdn.com/archivesE/upload/j_646/27_14/org_8u7v2qfull/ORG_8U7V2QFull_l.jpeg",
+    "price": "2399",
+    "rating": 4.9,
+    "category": "Bracelets"
+  },
+  {
+    "id": 12,
+    "brand": "Harry Winston",
+    "name": "Traffic Bracelet",
+    "description": "Intricate patterns, sophistication.",
+    "image": "https://a.1stdibscdn.com/harry-winston-2417-carat-diamond-bracelet-for-sale/j_1002/1542822251973/23597_main_master.jpg?width=768",
+    "price": "1799",
+    "rating": 4.7,
+    "category": "Bracelets"
+  },
+  {
+    "id": 13,
+    "brand": "Harry Winston",
+    "name": "HW Logo Link Bracelet",
+    "description": "Modern statement, brand initials.",
+    "image": "https://media.tiffany.com/is/image/Tiffany/EcomItemL2/tiffany-hardwearmicro-link-bracelet-60417067_1013583_ED_M.jpg",
+    "price": "1599",
+    "rating": 4.6,
+    "category": "Bracelets"
+  },
+  {
+    "id": 14,
+    "brand": "Harry Winston",
+    "name": "Lily Cluster Diamond Bracelet",
+    "description": "Graceful charm, lily flower.",
+    "image": "https://www.openforvintage.com/cdn/shop/products/2000_ba8bf21b-3105-44c6-901c-ff8855ef5eb8.jpg?v=1666664325",
+    "price": "2999",
+    "rating": 4.8,
+    "category": "Bracelets"
+  },
+  {
+    "id": 15,
+    "brand": "Harry Winston",
+    "name": "HW Logo Cuff Bracelet",
+    "description": "Bold accent with logo.",
+    "image": "https://image.harrods.com/cartier-yellow-gold-love-chain-bracelet_14867325_32044358_2048.jpg",
+    "price": "1999",
+    "rating": 4.5,
+    "category": "Bracelets"
+  },
+  {
+    "id": 16,
+    "brand": "Cartier",
+    "name": "Love Bracelet",
+    "description": "Eternal bond, screw motif.",
+    "image": "https://www.cartier.com/variants/images/1647597277058376/img1/w960.jpg",
+    "price": "1499",
+    "rating": 4.9,
+    "category": "Bracelets"
+  },
+  {
+    "id": 17,
+    "brand": "Cartier",
+    "name": "Juste un Clou Bracelet",
+    "description": "Edgy chic, nail design.",
+    "image": "https://www.cartier.com/variants/images/25458910981759278/img1/w960.jpg",
+    "price": "1299",
+    "rating": 4.6,
+    "category": "Bracelets"
+  },
+  {
+    "id": 18,
+    "brand": "Cartier",
+    "name": "Panthère Bracelet",
+    "description": "Feline allure, panther-inspired.",
+    "image": "https://image.harrods.com/cartier-yellow-gold-panthere-de-cartier-bracelet_17955484_42444104_2048.jpg",
+    "price": "1899",
+    "rating": 4.8,
+    "category": "Bracelets"
+  },
+  {
+    "id": 19,
+    "brand": "Cartier",
+    "name": "Ecrou de Cartier Bracelet",
+    "description": "Industrial elegance, hardware.",
+    "image": "https://www.cartier.com/variants/images/25372685655706578/img1/w400.jpg",
+    "price": "999",
+    "rating": 4.4,
+    "category": "Bracelets"
+  },
+  {
+    "id": 20,
+    "brand": "Cartier",
+    "name": "Amulette de Cartier Bracelet",
+    "description": "Lucky charm, gemstone.",
+    "image": "https://cdn.theluxurycloset.com/uploads/products/full/luxury-women-cartier-used-fine-jewelry-p133341-001.jpg",
+    "price": "1499",
+    "rating": 4.7,
+    "category": "Bracelets"
+  },
+  {
+    "id": 21,
+    "brand": "Chopard",
+    "name": "Happy Diamonds Tennis Bracelet",
+    "description": "Joyful sparkle, diamonds.",
+    "image": "https://objects-prod.cdn.chopard.com/ar_1:1,c_pad,w_600,b_white,f_auto,q_auto,dpr_auto/ProductsAssets/Web/85A054-0001_01.png",
+    "price": "1299",
+    "rating": 4.6,
+    "category": "Bracelets"
+  },
+  {
+    "id": 22,
+    "brand": "Chopard",
+    "name": "Happy Hearts Bracelet",
+    "description": "Love and dance, hearts.",
+    "image": "https://objects-prod.cdn.chopard.com/ar_1:1,c_pad,w_600,b_white,f_auto,q_auto,dpr_auto/ProductsAssets/Web/@857482-5700_01.png",
+    "price": "799",
+    "rating": 4.5,
+    "category": "Bracelets"
+  },
+  {
+    "id": 23,
+    "brand": "Chopard",
+    "name": "Chopardissimo Bracelet",
+    "description": "Refined engravings, Chopard.",
+    "image": "https://objects-prod.cdn.chopard.com/ar_1:1,c_pad,w_600,b_white,f_auto,q_auto,dpr_auto/ProductsAssets/Web/859099-9001_01.png",
+    "price": "899",
+    "rating": 4.8,
+    "category": "Bracelets"
+  },
+  {
+    "id": 24,
+    "brand": "Chopard",
+    "name": "Ice Cube Bracelet",
+    "description": "Contemporary geometry, ice cube.",
+    "image": " https://cdn-images.farfetch-contents.com/12/91/65/24/12916524_18796542_600.jpg",
+    "price": "599",
+    "rating": 4.3,
+    "category": "Bracelets"
+  },
+  {
+    "id": 25,
+    "brand": "Chopard",
+    "name": "Happy Spirit Bracelet",
+    "description": "Floating diamond, happiness.",
+    "image": "https://maestro.rs/en/wp-content/uploads/2020/05/happy-diamonds-happy-spirit-858230-9001.jpg",
+    "price": "1199",
+    "rating": 4.9,
+    "category": "Bracelets"
+  },
+  {
+    "id": 26,
+    "brand": "David Yurman",
+    "name": "Cable Classics Bracelet with Diamonds",
+    "description": "Timeless glamour, cable design.",
+    "image": "https://www.davidyurman.com/dw/image/v2/BGCL_PRD/on/demandware.static/-/Sites-dy-master-catalog/default/dwa5c4e72f/images/hi-res/main/B12381DS4ADI.jpg?cx=841&cy=263&cw=3285&ch=3285&sm=fit&sw=768&sh=768",
+    "price": "799",
+    "rating": 4.6,
+    "category": "Bracelets"
+  },
+  {
+    "id": 27,
+    "brand": "David Yurman",
+    "name": "Renaissance Bracelet",
+    "description": "Regal artistry, architecture.",
+    "image": "https://files.jewelfeed.com/si534/catalog/items/3adfe1c5-7275-43b6-975a-868aaba70d51.jpg.800x800_q85_background.jpg",
+    "price": "999",
+    "rating": 4.7,
+    "category": "Bracelets"
+  },
+  {
+    "id": 28,
+    "brand": "David Yurman",
+    "name": "Belmont Curb Link Bracelet",
+    "description": "Bold style, curb links.",
+    "image": "https://www.oliverjewellery.ca/cdn/shop/products/Tiffany-Co_-Curb-Link-Bracelet_e875e04c-9aa6-4154-b100-27eb6d52bbdd_1556x.jpg?v=1669133051",
+    "price": "899",
+    "rating": 4.5,
+    "category": "Bracelets"
+  },
+  {
+    "id": 29,
+    "brand": "David Yurman",
+    "name": "Albion Bracelet with Diamonds",
+    "description": "Brilliant statement, Albion.",
+    "image": "https://images.bloomingdalesassets.com/is/image/BLM/products/4/optimized/8887934_fpx.tif?op_sharpen=1&wid=700&fit=fit,1&$filtersm$",
+    "price": "1099",
+    "rating": 4.8,
+    "category": "Bracelets"
+  },
+  {
+    "id": 30,
+    "brand": "David Yurman",
+    "name": "Chatelaine Bracelet with Diamonds",
+    "description": "Functional beauty, diamond.",
+    "image": "https://www.underwoodjewelers.com/wp-content/uploads/2023/03/B12609-SSAAH.jpg",
+    "price": "799",
+    "rating": 4.6,
+    "category": "Bracelets"
+  },
+  {
+    "id": 31,
+    "brand": "Van Cleef & Arpels",
+    "name": "Alhambra Bracelet",
+    "description": "Lucky charm, Alhambra.",
+    "image": "https://sothebys-md.brightspotcdn.com/d2/31/9fbc0d684219b57016f54d9a55e5/149n10099-b7zpz.jpg",
+    "price": "1599",
+    "rating": 4.9,
+    "category": "Bracelets"
+  },
+  {
+    "id": 32,
+    "brand": "Van Cleef & Arpels",
+    "name": "Perlée Bracelet",
+    "description": "Delicate beads, elegance.",
+    "image": "https://oakgem.com/cdn/shop/products/DSCN3721_f0cd72a0-5188-452b-bc94-50b4463ad833_800x.jpg?v=1668186683",
+    "price": "1199",
+    "rating": 4.7,
+    "category": "Bracelets"
+  },
+  {
+    "id": 33,
+    "brand": "Van Cleef & Arpels",
+    "name": "Vintage Alhambra Bracelet",
+    "description": "Classic appeal, vintage.",
+    "image": "https://madisonavenuecouture.com/cdn/shop/products/VCA-B-120922-3-03_1024x1024.jpg?v=1671486864 ",
+    "price": "1899",
+    "rating": 4.8,
+    "category": "Bracelets"
+  },
+  {
+    "id": 34,
+    "brand": "Van Cleef & Arpels",
+    "name": "Frivole Bracelet",
+    "description": "Playful florals, joy.",
+    "image": "https://mygemma.com/cdn/shop/products/132050-fv_3000x.jpg?v=1687267008",
+    "price": "1399",
+    "rating": 4.6,
+    "category": "Bracelets"
+  },
+  {
+    "id": 35,
+    "brand": "Van Cleef & Arpels",
+    "name": "Sweet Alhambra Bracelet",
+    "description": "Whimsical motifs, materials.",
+    "image": "https://medias.collectorsquare.com/images/products/357139/00pp-van-cleef-arpels-sweet-alhambra-bracelet-in-yellow-gold-and-mother-of-pearl.jpg",
+    "price": "999",
+    "rating": 4.5,
+    "category": "Bracelets"
+  }
+]
