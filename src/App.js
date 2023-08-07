@@ -5,6 +5,7 @@ import { Home } from './components/Home/Home';
 import { Video } from './components/Video/Video';
 import { Category } from './components/Category/Category';
 import { Menu } from './components/Menu/Menu';
+import { Product } from './components/Product/Product';
 
 
 function App() {
@@ -19,9 +20,10 @@ function App() {
       <Routes>
         <Route path='/' element={<Home />} />
         <Route path='/category' element={<Category />} />
-        <Route path='/category-bracelets' element={<Menu dbPath="./db/db.bracelet.json" />} />
-        <Route path='/category-necklaces' element={<Menu dbPath="./db/db.necklaces.json" />} />
-        <Route path='/category-rings' element={<Menu dbPath="./db/db.rings.json" />} />
+        <Route path='/menu/bracelets' element={<Menu dbPath="../db/db.bracelet.json" />} />
+        <Route path='/menu/necklaces' element={<Menu dbPath="../db/db.necklaces.json" />} />
+        <Route path='/menu/rings' element={<Menu dbPath="../db/db.rings.json" />} />
+        <Route path='/menu/category/:id' element={<Product />} />
       </Routes>
 
       <Video />

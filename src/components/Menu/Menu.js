@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import { Link } from "react-router-dom";
 
 export const Menu = ({ dbPath }) => {
     const [items, setItems] = useState([]);
@@ -38,13 +39,14 @@ export const Menu = ({ dbPath }) => {
             </div>
 
             {items.slice(0, show).map((item, index) => (
-                <div className="product-item" key={index} style={{ backgroundImage: `url(${item.image})` }}>
-                    <div>{item.name}</div>
-                    <p>{item.description}</p>
-                    <h4 className="price">${item.price}</h4>
-                </div>
+                <Link key={item.id} to={`/menu/category/${item.id}`} state={{ item }}>
+                    <div className="product-item" key={index} style={{ backgroundImage: `url(${item.image})` }}>
+                        <div>{item.name}</div>
+                        <p>{item.description}</p>
+                        <h4 className="price">${item.price}</h4>
+                    </div>
+                </Link>
             ))}
-
             <div className="btn-container">
                 {show > items.length ? (
                     <button id="load-more-btn" onClick={handleShowLess}>Show Less</button>
@@ -53,7 +55,6 @@ export const Menu = ({ dbPath }) => {
                 )}
             </div>
 
-        </div>
+        </div >
     )
 };
-

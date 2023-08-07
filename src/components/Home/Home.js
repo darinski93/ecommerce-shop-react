@@ -1,3 +1,4 @@
+
 const brandImages = [
     './img/photo_1.jpg',
     './img/photo_2.jpg',
